@@ -13,7 +13,7 @@ summary: "I was part of a team at a local rock climbing gym who helped with the 
 
 I work with the routesetters at volcanic rock gym and to further expand the gym we have built a wall from scratch and constructed another wall which was made by a different company. The wall that the gym ordered uses RGB lights in order to show you what holds on the wall you are supposed to grab. I helped to wire the 300+ holds so that they light up properly according to the associated app. Essentially each hold has a position based on a grid and we needed to wire it so that the control box would be able to appropriately light up each hold based on what the user inputs into the app. 
 
-This image shows a finished training board similar to the board I helped construct/wire.
+This image shows a finished training board similar to the board I helped construct and wire.
 
 <img width="200px" class="img-fluid" src="../img/kilter.png">
 
