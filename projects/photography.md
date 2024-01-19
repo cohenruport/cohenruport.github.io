@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/camera.jpg
 title: "Photography"
 date: 2023
 published: true
