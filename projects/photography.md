@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/camera.jpg
+image: img/camera.png
 title: "Photography"
 date: 2023
 published: true
