@@ -17,7 +17,6 @@ I started photography in highschool and have been very into it since I took AP p
   <img width="400px" src="../img/sheep.png" class="img-thumbnail" >
   <img width="400px" src="../img/rainbow.png" class="img-thumbnail" >
   <img width="400px" src="../img/stairway.png" class="img-thumbnail" >
-  <img width="400px" src="../img/snowboard.png" class="img-thumbnail" >
 </div>
 
 
