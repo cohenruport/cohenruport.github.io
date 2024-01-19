@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Hotel.png
 title: "Hotel Management System"
 date: 2023
 published: true
@@ -9,7 +9,6 @@ labels:
   - C++
 summary: "My team developed a hotel management system using C++ for our ICS 212 final"
 ---
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 For this project we were tasked with creating a hotel management system in C++ which tracks all of the rooms and customers in a hotel. We used a switch case to provide the user with a menu. The menu offers the user 7 options such as checking what rooms are available, checking in customers, searching for customers and various other functions. Additionally the _Manage Room_ function opens another menu which allows the user to create new rooms in the hotel, find rooms, or delete existing rooms.
 
