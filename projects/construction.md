@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/spraywall.png
 title: "Climbing Wall Construction"
-date: 2023
+date: 2023-09
 published: true
 labels:
   - Team Work
