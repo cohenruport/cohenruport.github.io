@@ -16,7 +16,9 @@
   "interests": [
     { "name": "Web Development" },
     { "name": "Software Engineering" },
-    { "name": "Sustainability" }
+    { "name": "Sustainability" },
+    { "name": "Rock Climbing" },
+    { "name": "Geography" }
   ],
   "skills": [
     {
