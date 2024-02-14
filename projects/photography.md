@@ -4,7 +4,7 @@ type: project
 image: img/camera.png
 title: "Photography"
 date: 2023
-published: true
+published: false
 labels:
   - Photography
   - Photo Editing
