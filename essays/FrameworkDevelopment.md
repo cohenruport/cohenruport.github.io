@@ -17,8 +17,8 @@ labels:
   In my personal experience one of the most important parts of using frameworks is the documentation. Documentation allows you to quickly figure out what solutions the framework has to the problems you are trying to solve. For example I used Bootstrap 5 to recreate a webpage.
 
 <picture>
-  <img alt="" src="img/morningbrewOG.png">
-  <img alt="" src="img/morningbrewRemake.png">
+  <img alt="" src="/img/morningbrewOG.png">
+  <img alt="" src="/img/morningbrewRemake.png">
 </picture>
 
   <!---->
