@@ -14,6 +14,7 @@ labels:
 ---
 
 By: Cohen, Sean
+<!---->
 There is a lack of diverse activities during the class period. We only have Flash Cards or Jeopardy outside of our main lectures. 
 Our solution is to add another game, reverse Bingo, to add more diversity to our class when we’re not doing a lecture.
 For this game there will be a admin/professor page which will be presented in front of the class. The professor can input terms and their associated definitions/questions. When the professor starts a session it will present the definitions individually on the projector or whatever the professor is using to share their screen and the students will pick a term on their Bingo board on their personal device. Once a student gets a bingo it will present the student's name on the professor's page in front of the class. When a student incorrectly reaches a bingo, meaning they have five answers in a row but some of the answers they selected are incorrect, the incorrect answers will be shown and their game will continue.
