@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "Application Design"
+# All dates must be YYYY-MM-DD format!
+date: 2024-05-07
+published: false
+labels:
+  - AI
+  - Software Engineering
+---
+
 ### I. Introduction
 
 
