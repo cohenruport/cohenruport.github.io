@@ -4,7 +4,7 @@ type: essay
 title: "Learning from AI"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
-published: false
+published: true
 labels:
   - AI
   - Software Engineering
