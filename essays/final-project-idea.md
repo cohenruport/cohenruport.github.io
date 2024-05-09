@@ -4,7 +4,7 @@ type: essay
 title: "Final Project Proposal"
 # All dates must be YYYY-MM-DD format!
 date: 2024-03-28
-published: true
+published: false
 labels:
   - Software Engineering
   - Meteor
