@@ -7,7 +7,7 @@ date: 2024-05
 published: true
 labels:
   - Javascript
-  - HTMl
+  - HTML
   - CSS
   - React
   - Meteor
