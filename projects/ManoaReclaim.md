@@ -21,7 +21,7 @@ Manoa Reclaim is a web app intended to serve as a centralized lost and found pla
 My main contributions to the app were implementing a form for people to register a lost item in the database when they find something that is lost. 
 
 *screenshot of form to register lost items*
-<img class="image-fluid" src="./img/RegisterLostItemForm.png">
+<img class="image-fluid" src="../img/RegisterLostItemForm.png">
 
 I also implemented an edit button that allowed admins to edit all of the information about the items in the database as well as allowing students to edit items that they submitted. Another component which I added was a delete button which allows admin to delete items from the database. Lastly I managed the deployment of the web app at [Manoa Reclaim](https://manoareclaim.online/).
 
