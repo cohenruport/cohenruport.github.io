@@ -4,7 +4,7 @@ type: project
 image: img/Hotel.png
 title: "Manoa Reclaim"
 date: 2024-05
-published: false
+published: true
 labels:
   - Javascript
   - HTML
