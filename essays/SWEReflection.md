@@ -16,7 +16,8 @@ Learning to work on a team was both the most interesting and challenging part of
 
 Agile project management, particularly the IDPM approach, is helpful because it breaks down the project into manageable chunks. IDPM or issue driven project management is an approach to building projects in which you break it down into tasks called issues. This allows team members to focus on specific tasks, which leads to a more organized workflow. It also motivates team members as there is a simple way to see what everyone is working on which adds a level of accountability. Issue driven project management allowed my team to effectively and relatively evenly distribute work as well as manage the priority of tasks so that we constantly made progress on our project. This practice was definitely essential in our success. That is why I believe that this is such a valuable skill as it is essential for teamwork, and it also helps with individual projects since it makes managing time, prioritizing tasks, and understanding your project much easier. 
 
-An example of a IDPM project board from my final project
+*An example of a IDPM project board from my final project*
+<img class="img-fluid" src="./img/m3projectpage.png">
 
 Another essential and valuable software engineering skill I’ve learned is configuration management, specifically Git and GitHub, which are essential for collaboration. Git allows team members to work on different parts of the codebase simultaneously without fear of conflicting changes. Features like branching and pull requests enable code reviews, which not only ensure code quality but also promote knowledge sharing among team members. This leads to a more cohesive team dynamic, where everyone is aware of what others are working on and can provide help or feedback when needed. Git is the core of teamwork in software development, it is essential to the organization of projects and the workflow of a team.
 
