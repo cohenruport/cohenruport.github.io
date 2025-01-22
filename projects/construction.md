@@ -4,7 +4,7 @@ type: project
 image: img/spraywall.png
 title: "Climbing Wall Construction"
 date: 2023-09
-published: True
+published: False
 labels:
   - Team Work
   - Problem Solving
